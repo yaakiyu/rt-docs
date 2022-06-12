@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rextteam.github.io/rt-docs/ja/blog</id>
-    <title>My Site Blog</title>
+    <title>RT Document Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rextteam.github.io/rt-docs/ja/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>RT Document Blog</subtitle>
     <icon>https://rextteam.github.io/rt-docs/ja/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
