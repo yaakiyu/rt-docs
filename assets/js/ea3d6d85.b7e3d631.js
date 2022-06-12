@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[3480],{2538:function(s){s.exports=JSON.parse('{"label":"hello","permalink":"/rt-docs/blog/tags/hello","allTagsPath":"/rt-docs/blog/tags","count":2}')}}]);
