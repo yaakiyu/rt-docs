@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rextteam.github.io/rt-docs/blog</id>
     <title>RT Document Blog</title>
-    <updated>2022-06-26T00:00:00.000Z</updated>
+    <updated>2022-06-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rextteam.github.io/rt-docs/blog"/>
     <subtitle>RT Document Blog</subtitle>
     <icon>https://rextteam.github.io/rt-docs/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ようこそ]]></title>
-        <id>welcome</id>
-        <link href="https://rextteam.github.io/rt-docs/blog/welcome"/>
-        <updated>2022-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[概要]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="見出しへの直接リンク">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content>
-        <author>
-            <name>mc_fdc</name>
-            <uri>https://mc-fdc.live</uri>
-        </author>
-        <category label="hello" term="hello"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[自己紹介]]></title>
         <id>introduce</id>
@@ -32,5 +19,18 @@
             <uri>https://mc-fdc.live</uri>
         </author>
         <category label="introduce" term="introduce"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ようこそ]]></title>
+        <id>welcome</id>
+        <link href="https://rextteam.github.io/rt-docs/blog/welcome"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[概要]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="見出しへの直接リンク">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content>
+        <author>
+            <name>mc_fdc</name>
+            <uri>https://mc-fdc.live</uri>
+        </author>
+        <category label="hello" term="hello"/>
     </entry>
 </feed>

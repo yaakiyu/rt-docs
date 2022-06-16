@@ -4,19 +4,10 @@
         <title>RT Document Blog</title>
         <link>https://rextteam.github.io/rt-docs/blog</link>
         <description>RT Document Blog</description>
-        <lastBuildDate>Sun, 26 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
-        <item>
-            <title><![CDATA[ようこそ]]></title>
-            <link>https://rextteam.github.io/rt-docs/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[概要]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="見出しへの直接リンク">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content:encoded>
-            <category>hello</category>
-        </item>
         <item>
             <title><![CDATA[自己紹介]]></title>
             <link>https://rextteam.github.io/rt-docs/blog/introduce</link>
@@ -25,6 +16,15 @@
             <description><![CDATA[自己紹介()]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自己紹介">自己紹介<a class="hash-link" href="#自己紹介" title="見出しへの直接リンク">​</a></h2><p>RTの運営をやっています、mc_fdcです。</p>]]></content:encoded>
             <category>introduce</category>
+        </item>
+        <item>
+            <title><![CDATA[ようこそ]]></title>
+            <link>https://rextteam.github.io/rt-docs/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[概要]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="見出しへの直接リンク">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content:encoded>
+            <category>hello</category>
         </item>
     </channel>
 </rss>
